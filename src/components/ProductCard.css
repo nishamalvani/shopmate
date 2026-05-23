@@ -18,6 +18,9 @@
   .productCard .name{
     margin: 10px 0px;
   }
+  .productCard .remove{
+    background-color: #ac0d14;
+  }
   
   .productCard p{
     font-size: 18px;
